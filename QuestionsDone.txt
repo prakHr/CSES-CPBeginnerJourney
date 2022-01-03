@@ -1,0 +1,18 @@
+Searching and sorting
+1-10
+
+1
+2
+3
+4
+5
+
+6
+7
+8
+9
+10
+
+segment tree and,Fenwick tree snippet is in range queries
+inverse mod in fibonacci numbers is in mathematics
+ 
